@@ -1,0 +1,1 @@
+This repository is for Gaussian and Laplacian pyramid transformations which is used for object detection from templates as well as for image blending using laplacian masks and image matting and blending.
